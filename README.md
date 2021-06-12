@@ -3,6 +3,7 @@ Mini Project for OOP
 
 ## This code is written by:
 ```bash
+members:
     Siroz Ali Taib
     Zheer Ardalan
     San Akram
@@ -43,7 +44,7 @@ so that it would be easier you to compile and run!
       23- public, private, protected and final modifiers
       24- error handling using try-catch exception
 
-      ```
+```
 
       ## Notes
 
